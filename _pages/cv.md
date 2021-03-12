@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Technology, Hanoi University of Science and Technology, 2019
+* M.S. in Data Science, Hanoi University of Science and Technology, 2021
 
 Work experience
 ======
