@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Technology (Talent program), School of Information and Communication and Technology, Hanoi University of Science and Technology, 2019
+* B.S. in Information Technology (Talent Program), School of Information and Communication and Technology, Hanoi University of Science and Technology, 2019
 * M.S. in Data Science, School of Information and Communication and Technology, Hanoi University of Science and Technology, 2021
 
 Work experience
@@ -38,9 +38,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
