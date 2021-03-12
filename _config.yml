@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Bach Tran"
-  avatar           : "profile.png"
-  bio              : "My bio"
-  location         : "Viet Nam"
+  avatar           : "bio.png"
+  bio              : "AI Research Resident at <a style='color: black;' href='https://www.vinai.io/'>VinAI Research, Vietnam</a>"
+  location         : "Hanoi, Viet Nam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BT4gJ-4AAAAJ&hl=vi"
