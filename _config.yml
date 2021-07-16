@@ -1,9 +1,7 @@
 title: Bach Tran # your name (or website title) here
-logo: "/images/bio.png?raw=true" # your photo (or logo) here
+logo: "/images/bio.png?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  Second description 
   <br><br>
   <a href="https://github.com/bachtranxuan">Github/a> 
   
