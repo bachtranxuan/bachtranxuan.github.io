@@ -27,7 +27,7 @@ Work experience
 Skills
 ======
 * Programing language: Python, C++.
-* Frame work: Pytorch.
+* Framework: Pytorch.
 
 Publications
 ======
