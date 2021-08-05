@@ -16,21 +16,18 @@ Education
 
 Work experience
 ======
-* Summer 2016: Research Assistant
+* Summer 2016 - Summer 2020: Research Assistant
   * Hanoi University of Science and Technology
-  * Duties included: Tagging issues
   * Supervisor: Asst. Prof. Khoat Than
 
 * Fall 2019: Teaching Assistant
   * Hanoi University of Science and Technology
-  * Duties included: Merging pull requests
   * Supervisor: Asst. Prof. Khoat Than
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Programing language: Python, C++.
+* Frame work: Pytorch.
 
 Publications
 ======
